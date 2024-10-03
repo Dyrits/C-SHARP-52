@@ -1,0 +1,19 @@
+name: C#52
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 8.0.x
+    - name: Restore dependencies
+      run: dotnet restore AAA
+    - name: Build
+      run: dotnet build AAA --no-restore
+    - name: Test
+      run: dotnet test AAA --no-build --verbosity normal
