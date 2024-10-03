@@ -1,4 +1,3 @@
-name: C#52
 on:
   push:
     branches: [ "main" ]
@@ -7,13 +6,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Setup .NET
+    - name: Checkout Repository
+    - name: Setup .NET environment
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 8.0.x
-    - name: Restore dependencies
+    - name: Restore .NET dependencies
       run: dotnet restore AAA
-    - name: Build
+    - name: Build .NET project
       run: dotnet build AAA --no-restore
-    - name: Test
+    - name: Run .NET tests
       run: dotnet test AAA --no-build --verbosity normal

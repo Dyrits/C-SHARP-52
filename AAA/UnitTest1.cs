@@ -9,8 +9,7 @@ public class UnitTest1
     {
         Assert.True(true);
     }
-
-    [Fact]
+    [Fact(Skip = "This test was build to fail~")]
     public void Fail()
     {
         Assert.True(false);
