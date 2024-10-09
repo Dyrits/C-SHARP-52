@@ -1,0 +1,15 @@
+/workspaces/C-SHARP-52/NumbersInCSharp/bin/Debug/net8.0/NumbersInCSharp
+/workspaces/C-SHARP-52/NumbersInCSharp/bin/Debug/net8.0/NumbersInCSharp.deps.json
+/workspaces/C-SHARP-52/NumbersInCSharp/bin/Debug/net8.0/NumbersInCSharp.runtimeconfig.json
+/workspaces/C-SHARP-52/NumbersInCSharp/bin/Debug/net8.0/NumbersInCSharp.dll
+/workspaces/C-SHARP-52/NumbersInCSharp/bin/Debug/net8.0/NumbersInCSharp.pdb
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.AssemblyInfo.cs
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.sourcelink.json
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.dll
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/refint/NumbersInCSharp.dll
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.pdb
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/NumbersInCSharp.genruntimeconfig.cache
+/workspaces/C-SHARP-52/NumbersInCSharp/obj/Debug/net8.0/ref/NumbersInCSharp.dll
