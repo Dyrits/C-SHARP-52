@@ -1,0 +1,15 @@
+/workspaces/C-SHARP-52/BranchesAndLoops/bin/Debug/net8.0/BranchesAndLoops
+/workspaces/C-SHARP-52/BranchesAndLoops/bin/Debug/net8.0/BranchesAndLoops.deps.json
+/workspaces/C-SHARP-52/BranchesAndLoops/bin/Debug/net8.0/BranchesAndLoops.runtimeconfig.json
+/workspaces/C-SHARP-52/BranchesAndLoops/bin/Debug/net8.0/BranchesAndLoops.dll
+/workspaces/C-SHARP-52/BranchesAndLoops/bin/Debug/net8.0/BranchesAndLoops.pdb
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.AssemblyInfo.cs
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.sourcelink.json
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.dll
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/refint/BranchesAndLoops.dll
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.pdb
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/BranchesAndLoops.genruntimeconfig.cache
+/workspaces/C-SHARP-52/BranchesAndLoops/obj/Debug/net8.0/ref/BranchesAndLoops.dll
